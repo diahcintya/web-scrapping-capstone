@@ -54,7 +54,7 @@ df = scrap(___) #insert url here
 
 ### The Final Mission
 
-Pada captsone kali ini, Bapak Ibu bisa memilih salah satu soal ini untuk dikerjakan.
+Pada captsone kali ini, Bapak/Ibu akan mengerjakan kasus no. 1 dari 3 kasus dibawah ini.
 
 1. (Easy) Data Volume Penjualan Ethereum dari `https://www.coingecko.com/en/coins/ethereum/historical_data/usd?start_date=2020-01-01&end_date=2021-06-30#panel`
 
